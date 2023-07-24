@@ -5,4 +5,6 @@ Built in c# / .net  to validade a XML trouhout an XSD file
 
 2th - Select the XSD file.
 
-3th - The results will be displayed in Terminal
+3th - build and save as .exe
+
+4th - run and the results will be displayed in Terminal
